@@ -1,4 +1,4 @@
 Roses are red 
 Voilets are blue
-I'm writing a poem
-To see on Github how to
+I'm writing this poem
+To learn on Github how to...
