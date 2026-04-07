@@ -2,3 +2,8 @@ Roses are red
 Voilets are blue
 I'm writing this poem
 To learn on Github how to...
+
+A second verse prehaps 
+To practice commit
+I like this tool 
+It is a good fit 
