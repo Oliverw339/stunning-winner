@@ -1,7 +1,7 @@
 Roses are red 
 Voilets are blue
 I'm writing these lines
-To learn on Github how to do!
+To learn on Github how to do...
 
 A second verse prehaps 
 To practice commit
@@ -11,7 +11,7 @@ It is a good fit!
 Getting used to MAC 
 Isn't that hard
 The keyboard is comfy 
-The battery is large!
+The battery is large.
 
 But I'm used to Windows 
 And its easy to see
