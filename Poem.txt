@@ -1,7 +1,7 @@
 Roses are red 
 Voilets are blue
-I'm writing this poem
-To learn on Github how to...
+I'm writing these lines
+To learn on Github how to do
 
 A second verse prehaps 
 To practice commit
